@@ -1,0 +1,76 @@
+{
+  "id": "2",
+  "firstName": "Chandra",
+  "lastName" : "Sekhar",
+  "photo" : "profilepic.jpeg",
+  "email" : "chandu@gmail.com",
+  "phoneNumber" : "7894561230",
+  "menuItems": [
+    {
+      "title" : "Dashboard",
+      "images" : "home.png",
+      "sublist" : []
+    },
+    {
+      "title" : "Profile",
+      "images" : "acount.png",
+      "sublist" : []
+    },
+    {
+      "title" : "Social",
+      "images" : "about.png",
+      "sublist" : [
+        {
+          "title" : "Stared",
+          "images" : "notification.png"
+
+        },
+        {
+          "title" : "Snoozed",
+          "images" : "notification.png"
+
+        }
+
+      ]
+    },
+    {
+      "title" : "Settings",
+      "images" : "setting.png",
+      "sublist" : [
+
+        {
+          "title" : "Important",
+          "images" : "notification.png"
+
+        },
+        {
+          "title" : "Sent",
+          "images" : "notification.png"
+
+        }
+
+      ]
+    },
+    {
+      "title" : "Notifications",
+      "images" : "notification.png",
+      "sublist" : [
+        {
+          "title" : "Categories",
+          "images" : "notification.png"
+
+        }
+      ]
+    },
+    {
+      "title" : "Logout",
+      "images" : "logout.png",
+      "sublist" : []
+    }
+  ]
+
+
+
+
+}
+
